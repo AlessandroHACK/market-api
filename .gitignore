@@ -2,7 +2,8 @@
 /dist
 /node_modules
 /build
-
+# postgres local data
+/postgres/data/
 # Logs
 logs
 *.log
